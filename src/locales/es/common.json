@@ -1,0 +1,453 @@
+{
+  "network_error": {
+    "400": "Revise la solicitud e intente de nuevo",
+    "401": "No está autorizado para hacer eso.",
+    "403":"Al parecer no tiene los privilegios suficientes para realizar la acción.",
+    "404": "Al parecer no se encuentra el elemento.",
+    "500": "Ha ocurrido un error y su solicitud no pudo ser completada. Contacta a nuestro equipo de soporte.",
+    "503":"Estamos presentando problemas con nuestros servidores.",
+    "offline": "Está desconectado."    
+  },
+  "navigation": {
+    "overview": {
+      "title":"Visión general",
+      "hover": "Dashboard"
+    },
+    "buyOffers": {
+      "title":"Ofertas",
+      "hover": "Planes y Servicios"
+    },
+    "myServices": {
+      "title":"Mis servicios",
+      "hover": "Servicios contratados"
+    },
+    "publicTemplate": {
+      "title": "Plantillas públicas",
+      "hover": "Plantillas públicas"
+    },
+    "statistics": {
+      "title":"Estadísticas"
+    },
+    "causes": {
+      "title":"Causas",
+      "hover": "Apoye nuestras Causas"
+    },
+    "operations": {
+      "title":"Operaciones"
+    },
+    "users":{
+      "title":"Miembros del equipo"
+    }, 
+    "jobOffers":{
+      "title":"Ofertas de trabajo"
+    },  
+    "courses": {
+      "title":"Cursos",
+      "hover": "Aplique a nuestros cursos"
+    },  
+    "sponsor": {
+      "title":"Patrocinio"
+    },  
+    "invest":{
+      "title":"Inversión"
+    },   
+    "admin": {
+      "title":"Administración"
+    },
+    "serviceConfiguration":{
+      "title":"Configuración del servicio"
+    },
+    "offersKit": {
+      "title":"Planes"
+    },
+    "loggers": {
+      "title":"Loggers"
+    },
+    "workspaces": {
+      "title":"Espacios de trabajo",
+      "hover": "Crea tu portafolio"
+    },
+    "jobApplications":{
+      "title":"Administrar ofertas de trabajo"
+    },
+    "manageCourses": {
+      "title":"Administrar cursos"
+    },
+    "sponsors": {
+      "title":"Patrocinadores"
+    },
+    "investors": {
+      "title":"Inversores"
+    },
+    "dashboard":{
+      "title":"Tablero"
+    },
+    "billingRecord":{
+      "title":"Registro de facturación"
+    },
+    "manageCauses":{
+      "title":"Administrar causas"
+    },
+    "Poll": {
+      "title":"Encuesta",
+      "hover": "Crear plantillas"
+    },
+    "sponsorEvent": {
+      "title":"Evento de patrocinador"
+    },
+    "fyboardSection":{
+      "title":"Panorama",
+      "hover": "Publicaciones"
+    },
+    "sponsorEventClient":{
+      "title":"Patrocinios",
+      "hover": "Opta por un patrocinio"
+    },
+    "Dashboard": "Dashboard",
+    "Planes y Servicios":"Planes y Servicios",
+    "invoices": {
+      "title":"Historial",
+      "hover": "Historial de facturas y pagos"
+    },
+    "business-users":{
+      "title":"Miembros del equipo",
+      "hover": "Colaboradores"
+    },
+    "formTemplate": {
+      "title":"Solicitud de Datos",
+      "hover": "Crear plantillas"
+    },
+    "adminSection":{
+      "title":"Administrar Sección"
+    } 
+  },
+  "formatMoney": "{{value, intlMoney}}",
+  "buy": "Configurar",
+  "learn": "Aprender",
+  "add": "Agregar",
+  "manage": "Administrar",
+  "filter": "Filtro",
+  "orderBy": "Ordenar por",
+  "fields": "Campos",
+  "clearFilter": "Limpiar filtro",
+  "save": "Guardar",
+  "login": "Iniciar sesión",
+  "logout": "Cerrar sesión",
+  "close": "Cerrar",
+  "goIt": "Ir",
+  "Edit": "Editar",
+  "Published": "Publicado",
+  "removeError": "Ocurrió un error para remover este objeto",
+  "emptySearchResult": "Lo sentimos, no hay datos para mostrar ahora",
+  "emptySearchResultMessage": "Al parecer, los datos a los que intentas acceder no existen.",
+  "dataErrorFoundTitle": "Oops... no hay resultados de busqueda.",
+  "dataErrorFoundSubTitle": "Se ha producido un error durante el proceso de búsqueda, por favor inténtelo de nuevo.",
+  "validationInvalidFormat": "Formato invalido",
+  "confirm": "Confirmar",
+  "donate": "Donar",
+  "apply": "Ver",
+  "applied": "Aplicado",
+  "details": "Detalles",
+  "nameKey": "Nombre",
+  "company": "Compañía",
+  "published": "Publicado",
+  "enable": "Habilitar",
+  "suggestedEnableOption": "Habilitar para su uso",
+  "suggestedButtonTemplate":"Debe estar en un WS para poder agregarlo",
+  "email": "Correo electrónico",
+  "phone": "Teléfono",
+  "actions": "Acciones",
+  "updatingWorkspace": "Actualizar espacio de trabajo...",
+  "updatingLang": "Actualizar lenguaje...",
+  "search": "Buscar",
+  "remove": "Eliminar",
+  "config": "Configurar",
+  "frequency": {
+    "DIARY": "Diario",
+    "MONTHLY": "Mensual",
+    "ANNUAL": "Anual"
+  },
+  "total": "Total",
+  "subTotal": "Subtotal",
+  "rows_per_page": "Filas por página",
+  "needs_to_be_in_workspace": "Necesitas estar en un espacio de trabajo",
+  "offer_action": "para poder comprar",
+  "businessuser_action": "para poder agregar un miembro",
+  "new_workspace": "O crear uno.",
+  "Required": "Campo obligatorio",
+  "photoText1": "Una imagen vale más que mil palabras!",
+  "photoText2": "Inicie su oferta agregando una",
+  "photoAction": "Arrastrar hasta aquí o",
+  "photoLink": "Buscar en archivos",
+  "back": "Atrás",
+  "userAlias": "Alias de Usuarios",
+  "user": "Usuario",
+  "admin":"Administrador",
+  "habiliteFirm":"Habilitar firma para receptores",
+  "addSignatories":"Añadir firmantes",
+  "descriptionUploadP12": "Suba su P12 para firmar el documento.",
+  "msgSuccessSign":"Se ha firmadao el documento correctamente.",
+  "msgErrorSign": "Ha ocurrido un error firmando el documento.",
+  "signedBy": "Firmado por",
+  "notUsers":"No hay firmantes",
+  "of":"de",
+  "signature":"Firmantes",
+  "digitalSign":"Firma digital",
+  "signedByUser": "Firmado",
+  "forValidation": {
+    "label":"Contraseña",
+    "placeholder": "Contraseña"
+  },
+  "service": "Servicio",
+  "empty": "Vacío",
+  "share": "Compartir",
+  "export": "Exportar",
+  "elasticConfig": {
+    "schema": "Esquema",
+    "ip": "IP",
+    "port": "Puerto",
+    "index": "Índice"
+  },
+  "successfulCreation": "Creado con éxito",
+  "creationError": "No se pudo crear correctamente debido a que hay datos inválidos en el formulario",
+  "successfulEdition": "Editado con éxito",
+  "editionError": "No se pudo editar correctamente debido a que hay datos inválidos en el formulario",
+  "photoTextEdit": "Cambiar su imagen",
+  "Filter": "Filtro",
+  "identifier": "Correo electrónico",
+  "name": "Nombre",
+  "alias": "Alias",
+  "last_name": "Apellido",
+  "gender": "Género",
+  "age": "Edad",
+  "location": "Localización",
+  "password": "Contraseña",
+  "continue": "Continuar",
+  "invite": "Invitar",
+  "or": "o",
+  "new_password": "Nueva contraseña",
+  "set_new_password": "Nueva Contraseña ...",
+  "create_at": "Creado el",
+  "sure": "¿Seguro?",
+  "delete": "Eliminar",
+  "pinned": "Anclar",
+  "unpinned": "Desanclar",
+  "collapsed": "Contraer",
+  "uncollapsed": "Expandir",
+  "actualWorkspace": "Espacio de trabajo actual",
+  "mustbeWorkspace": "Entra a un workspace para poder agregarlo",
+  "edit": "Editar",
+  "view": "Ver",
+  "review": "Revisar",
+  "public": "Público",
+  "private": "Privado",
+  "confidential": "Protegido",
+  "request": "Petición",
+  "link": "Vínculo",
+  "as_template": "Como plantilla",
+  "shareWithSomebody": "Compartir con alguien",
+  "shareWithAll": "Compartir con todos",
+  "copied": "copiado",
+  "copy": "Copiar",
+  "cancel": "Cancelar",
+  "accept": "Aceptar",
+  "generate": "Generar",
+  "no_result_to": "No hay resultados para",
+  "value_to_search": "Introduzca un valor para buscar",
+  "searching": "Buscando",
+  "completed": "Completado",
+  "all": "Todos",
+  "favorite": "Favoritos",
+  "date": "Fecha",
+  "order_by": "Ordenar",
+  "show": "Mostrar",
+  "make_as_public": "Hacer como público",
+  "make_as_private": "Hacer como privado",
+  "drag_and_drop_or": "Arrastrar y soltar o",
+  "browse_for_files": "Buscar archivos",
+  "done": "Hecho",
+  "import": "Importar",
+  "description_here": "Descripción aquí ...",
+  "read_more": "Leer más",
+  "show_more": "Mostrar más",
+  "show_less": "Mostrar menos",
+  "options": "opciones",
+  "message": "Escribir un mensaje",
+  "select_category": "Seleccione una categoría",
+  "select_categorys": "Seleccione una de estas categoría",
+  "country":{
+    "placeholder": "Seleccione un país"
+  },
+  "typeofBusiness":{
+    "placeholder": "Seleccione un tipo de negocio"
+  },
+  "statistics": "Estadísticas",
+  "report": "Reportar",
+  "loading": "Cargando...",
+  "create": "Crear",
+  "reported": "Reportado",
+  "comments": "Comentarios",
+  "achievements": "logros",
+  "bonds": "Lazos",
+  "contacts": "Contactos",
+  "messages": "Mensajes",
+  "singularMessage": "Escribe un mensaje",
+  "profiles": "Perfiles",
+  "packs": "Paquetes",
+  "packages": "Paquetes",
+  "polls": "Encuestas",
+  "chat": "Chat",
+  "deleteChat": "Borrar chat",
+  "fyboard": "Panorama",
+  "shared_center": "Compartidos",
+  "sponsors": "Patrocinadores",
+  "about-us": "Sobre Nosotros",
+  "help": "Ayuda",
+  "terms-and-conditions": "Términos y Condiciones",
+  "privacy-policy": "Política de Privacidad",
+  "copyright": "© {{val}}. FySelf FL.",
+  "european-data-protection-law": "Ley de Protección de Datos Europea",
+  "suggestions": "Sugerencias",
+  "use": "Usar",
+  "reply_to_private": "Responder al privado",
+  "shred_times": "veces",
+  "one_shared_time": "vez",
+  "visible": "Visible",
+  "invisible": "Invisible",
+  "template": "Plantilla",
+  "person_title": "Personas",
+  "post_title": "Publicar",
+  "institutionalRegistration": "Petición de datos",
+  "partners": "SOCIOS",
+  "clients": "CLIENTES",
+  "survey": "Encuestas",
+  "formAnswer": "Formulario",
+  "autocomplete": "Autocomplete",
+  "msgPostShared": "La publicación se compartió correctamente.",
+  "without-leaves": "Sin leaves",
+  "msgPostPinned": "La encuesta se ha anclado correctamente.",
+  "msgPostUnPinned": "La encuesta se ha desanclado correctamente.",
+  "msgProfilePinned": "El perfil se ha anclado correctamente.",
+  "msgProfileUnPinned": "El perfil se ha desanclado correctamente.",
+  "msgChatPinned": "El chat se ha anclado correctamente.",
+  "msgChatUnPinned": "El chat se ha desanclado correctamente.",
+  "msgPackagePinned": "El paquete se ha anclado correctamente.",
+  "msgPackageUnPinned": "El paquete se ha desanclado correctamente.",
+  "deletedMemberAdminMsg": "La El rol de administrador del usuario se ha eliminado correctamente.",
+  "addedMemberAdminMsg": "El rol de administrador del usuario se ha eliminado correctamente.",
+  "en": "inglés",
+  "es": "español",
+  "ru": "ruso",
+  "updatedLang": "Actualizando idioma ...",
+  "type": "Tipo",
+  "closeTabs": "Se ha cerrado el tabs: {{type}}",
+  "smileys_people": "emoticonos y personas",
+  "animals_nature": "animales y naturaleza",
+  "food_drink": "comida y bebida",
+  "travel_places": "viajes y lugares",
+  "activities": "actividades",
+  "objects": "objetos",
+  "symbols": "símbolos",
+  "flags": "banderas",
+  "recently_used": "recientemente usado",
+  "search_message": "Buscar en Mensajes",
+  "select_user": "Seleccionar usuario",
+  "statisticsReputation": "Mi reputación en el tiempo",
+  "dateRangePicker": {
+    "today": "Hoy",
+    "yesterday": "Ayer",
+    "lastSevenDays": "Los últimos 7 días",
+    "lastThirtyDays": "Los últimos 30 días",
+    "thisMonth": "Este mes",
+    "lastMonth": "El mes pasado",
+    "cancelLabel": "Cancelar",
+    "applyLabel": "Aplicar",
+    "customRangeLabel": "Rango personalizado"
+  },
+  "labelOnlyForInvitation": "El registro es solo por invitación",
+  "labelInvitationForAccess": "Versión  Beta restringida a la administración",
+  "join": "Unirme",
+  "exit": "Salir",
+  "reputation": "Reputación",
+  "textFileErrorMessage": "El tamaño fichero que desea subir es mayor que {{val}} MB",
+  "download": "Descargar",  
+  "labelPrint": "Imprimir",
+  "refreshSpaceError": "Estás desconectado. Comprueba tu red y vuelve a intentarlo.",
+  "status": {
+    "label": "Estado",
+    "ACTIVE": "Activo",
+    "FINISHED": "Vencido",
+    "FINISHING": "Próximo a vencer"
+  },
+  "cancelRecurringPay": "Cancelar pago recurrente",
+  "modifyPayment": "Modificar pago",
+  "rehire": "Renovar",
+  "updateService": {
+    "title":"Modificar",
+    "placeholder": "Extraer del plan, modificar y contratar"
+  },
+  "updatePlan": {
+    "title":"Modificar plan",
+    "placeholder": "Modificar el plan  y contratar"
+  },  
+  "deleteMemberAdmin": {
+    "title": "Eliminar permisos de administrador",
+    "placeholder": "Eliminar permisos de administrador"  },
+  "addMemberAdmin": {
+    "title": "Agregar permisos de administrador",
+    "placeholder": "Agregar permisos de administrador"
+  },
+  "warningMessageMembersAdminDelete": "Si elimina los permisos de administración de este usuario, no podrá acceder a todas las funcionalidades del equipo",
+  "warningMessageMembersAdminAdd": "Si agrega los permisos de administración a este usuario, podrá acceder a todas las funcionalidades del equipo",
+  "addPublicTemplate":{
+    "title":"Agregar plantilla privada"
+  },
+  "warningMessageAddPublicTemplate":"¿Está seguro que desea agregar la siguiente plantilla privada?",
+  "msgMakePublic": "La plantilla se ha publicado satisfactoriamente.",
+  "msgErrorPublic": "No se pudo hacer pública la plantilla.",
+  "modifyService": "Configurar",
+  "makePrivate": "Hacer plantilla pública",
+  "warningTitle": "Confirmación de recontratación",
+  "warningMessage": "Si recontrata este servicio de esta forma, no podra volver a contratarlo como parte del plan a que pertenecia",
+  "warningQuestion": "¿Está seguro?",
+  "renewBy": {
+    "count": "Renovar por cantidad de Servicios",
+    "date": "Renovar por fecha",
+    "forever": "Renovar desde Siempre",
+    "not": "No renovar"
+  },
+  "selectCount": "Selecciona la cantidad de veces que contratará el servicio",
+  "dateSelectText": {
+    "initDate": "Tu fecha de inicio es",
+    "endDate": "Seleccione una fecha para la finalización de su servicio."
+  },
+  "labelReceivedFrom": "Recibido de",
+  "labelReputation": "Reputación",
+  "labelVeracity": "Veracidad",
+  "labelAddField": "Agregar campo",  
+  "labelAddTabSpace": "Agregar espacio",
+  "DD/MM/YY":"DD/MM/YY",
+  "hh-mm-a": "hh:mm a",
+  "h-mm-a": "h:mm a",
+  "DD-MM-YYYY-hh-mm-a":"DD/MM/YY hh:mm A",
+  "DD-MMM-YYYY-LT-a": "DD MMM YYYY a",
+  "DD-MMM-YYYY-a": "DD MMM YYYY a",
+  "DD-MMM-YYYY-hh-mm-a": "DD MMM YYYY hh:mm a",
+  "MMMM-Do-YYYY-h-mm-ss": "LLL",
+  "MMMM-Do": "DD [de] MMMM",
+  "DD-MMM": "DD [de] MMM",
+  "DD-MMM-YYYY": "DD MMM YYYY",
+  "DD-MMM-LT": "DD MMM LT",
+  "reactionHover":{
+    "SURELY_ANGRY": "Lo niego",
+    "NOT_VERY_HAPPY":"Lo dudo" ,
+    "LIKE_IT":"Lo acepto",
+    "ITS_FUNNY":"Me asombra ",
+    "LOL": "Me sumo"
+  },
+  "labelAddColumns":"Agregar contenido en columnas",
+  "labelColumn":"Columna",
+  "addNewColum":"Agregar Columna",
+  "configColumn":"Configuración del contenido de las columnas",
+  "digitalSignTitle":"Buscar archivo en:"
+}

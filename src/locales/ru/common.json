@@ -1,0 +1,419 @@
+{
+  "network_error": {
+    "400": "Проверьте запрос и попробуйте еще раз.",
+    "401": "Вы не имеете на это разрешение..",
+    "403":"Уппс!\nБольшие деревья не пропустят вас.",
+    "404": "Уппс!\nДеревья не растут здесь, попробуйте еще где-то.",
+    "500": "Произошла ошибка, и ваш запрос не смог быть выполнен. Пожалуйста, свяжитесь с нами!",
+    "503":"Уппс!\nПодозрительные корни остановили наш сервер.",
+    "offline": "Вы оффлайн."    
+  }, 
+  "navigation": {
+    "overview": {
+      "title": "Обзор",
+      "hover": "Щиток приборов"
+    },
+    "buyOffers": {
+      "title": "Предложения",
+      "hover": "Планы и услуги"
+    },
+    "myServices": {
+      "title": "Мои услуги",
+      "hover": "Услуги по контракту"
+    },
+    "statistics": {
+      "title": "Статистика"
+    },
+    "causes": {
+      "title": "Причины",
+      "hover": "Поддержите наши причины"
+    },
+    "operations": {
+      "title": "Операции"
+    },
+    "users": {
+      "title": "Члены команды"
+    },
+    "jobOffers": {
+      "title": "Предложения о работе"
+    },
+    "courses": {
+      "title": "Курсы",
+      "hover": "Подать заявку на наши курсы"
+    },
+    "sponsor": {
+      "title": "Спонсорство"
+    },
+    "invest": {
+      "title": "Инвестиции"
+    },
+    "admin": {
+      "title": "Администрация"
+    },
+    "serviceConfiguration": {
+      "title": "Конфигурация услуги"
+    },
+    "offersKit": {
+      "title": "Планы"
+    },
+    "loggers": {
+      "title": "Лесорубы"
+    },
+    "workspaces": {
+      "title": "Рабочие места",
+      "hover": "Создайте свое портфолио"
+    },
+    "jobApplications": {
+      "title": "Управляйте предложениями о работе"
+    },
+    "manageCourses": {
+      "title": "Управлять курсами"
+    },
+    "sponsors": {
+      "title": "Спонсоры"
+    },
+    "investors": {
+      "title": "Инвесторам"
+    },
+    "dashboard": {
+      "title": "Доска"
+    },
+    "billingRecord": {
+      "title": "Биллинговая запись"
+    },
+    "manageCauses": {
+      "title": "Управляйте причинами"
+    },
+    "Poll": {
+      "title": "Опрос",
+      "hover": "Создавайте шаблоны"
+    },
+    "sponsorEvent": {
+      "title": "Спонсорское мероприятие"
+    },
+    "fyboardSection": {
+      "title": "Панорама",
+      "hover": "Публикации"
+    },
+    "sponsorEventClient": {
+      "title": "Спонсорство",
+      "hover": "Выберите спонсорство"
+    },
+    "Dashboard": "Щиток приборов",
+    "Plans and Services": "Планы и услуги",
+    "invoices": {
+      "title": "История",
+      "hover": "История счетов и платежей"
+    },
+    "business-users": {
+      "title": "Члены команды",
+      "hover": "Соавторы"
+    },
+    "formTemplate": {
+      "title": "Запрос данных",
+      "hover": "Создавайте шаблоны"
+    },
+    "adminSection": {
+      "title": "Управление разделом"
+    }
+  }, 
+  "formatMoney": "{{value, intlMoney}}",
+  "buy": "Купить",
+  "learn": "Выучить",
+  "add": "Добавить",
+  "manage": "Управлять",
+  "filter": "Фильтр",
+  "orderBy": "Сортировать по",
+  "fields": "Поля",
+  "clearFilter": "Удалить фильтр",
+  "save": "Сохранить",
+  "login": "Войти",
+  "logout": "Выйти",
+  "close": "Выйти",
+  "goIt": "Понятно",
+  "Edit": "Редактировать",
+  "Published": "Опубликовано",
+  "removeError": "Произошла ошибки при удалении",
+  "emptySearchResult": "Извините, нет данных для отображения",
+  "emptySearchResultMessage": "Данные, которые вы ищете, кажется, не существуют.",
+  "dataErrorFoundTitle": "Хмм, нет результатов пойска.",
+  "dataErrorFoundSubTitle": "В процессе поиска произошла ошибка, попробуйте еще раз.",
+  "validationInvalidFormat": "Неправильный форма",
+  "confirm": "Подтвердить",
+  "donate": "Пожертвовать",
+  "apply": "Применить",
+  "applied": "Применено",
+  "details": "Детали",
+  "nameKey": "Название",
+  "company": "Company",
+  "published": "Опубликовано",
+  "enable": "Давать возможность",
+  "suggestedEnableOption": "Включить для использования",
+  "email": "Электронная почта",
+  "phone": "Телефон",
+  "actions": "Действия",
+  "updatingWorkspace": "Обновление рабочего пространства...",
+  "updatingLang": "Обновление языка...",
+  "search": "Поиск",
+  "remove": "удалять",
+  "config": "Конфиг",
+  "frequency": {
+    "DIARY": "Дневник",
+    "MONTHLY": "Ежемесячно",
+    "ANNUAL": "Годовой"
+  },
+  "total": "Общее",
+  "subTotal": "Промежуточный итог",
+  "rows_per_page": "Ряды",
+  "needs_to_be_in_workspace": "Вам нужно быть в рабочем пространстве",
+  "offer_action":"иметь возможность покупать",
+  "businessuser_action":"чтобы иметь возможность добавить участника", 
+  "new_workspace": "Или создайте его.",
+  "Required": "Обязательное поле",
+  "photoText1": "Лучше один раз увидеть, чем сто раз услышать.",
+  "photoText2": "Начните свое предложение с добавления одного.",
+  "photoAction": "Перетащите и отпустите или",
+  "photoLink": "Искать файлы",
+  "back": "Назад",
+  "userAlias": "Псевдоним пользователя",
+  "user": "Пользователь",
+  "admin":"Администратор",
+  "habiliteFirm":"Включить подписывание для получателей",
+  "addSignatories":"Добавить подписантов",
+  "descriptionUploadP12": "Загрузите свой P12, чтобы подписать документ.",
+  "msgSuccessSign":"Документ подписан правильно.",
+  "msgErrorSign": "При подписании документа произошла ошибка.",
+  "signedBy": "Подписано",
+  "notUsers":"Нет подписантов",
+  "of":"от",
+  "signature":"Подписанты",
+  "digitalSign":"Цифровой подписи",
+  "signedByUser": "подписанный",
+  "forValidation": {
+    "label":"пароль",
+    "placeholder": "пароль"
+  },
+  "service": "Yслуги",
+  "empty": "Пусто",
+  "share": "Поделиться",
+  "export": "Экспорт",
+  "elasticConfig": {
+    "schema": "Схема",
+    "ip": "IP",
+    "port": "Порт",
+    "index": "Индекс"
+  },
+  "successfulCreation":"Успешно создано",
+  "creationError":"Не удалось успешно создать из-за неверных данных в форме",
+  "successfulEdition":"Успешно отредактировано",
+  "editionError":"Не удалось правильно отредактировать из-за неверных данных в форме",
+  "photoTextEdit":"Измени свою картинку",
+  "Filter":"Фильтр",
+
+
+
+  "identifier": "Email",
+  "name": "Name",
+  "alias": "Alias",
+  "last_name": "Last Name",
+  "gender": "Gender",
+  "age": "Age",
+  "location": "Location",
+  "password": "Password",
+  "continue": "Continue",
+  "or": "or",
+  "new_password": "New Password",
+  "set_new_password": "Set a new password...",
+  "create_at": "Created at",
+  "sure": "Sure?",
+  "delete": "Delete",
+  "pinned": "Pin",
+  "unpinned": "Unpin",
+  "collapsed": "Collapsed",
+  "uncollapsed": "Expanded",
+   "actualWorkspace": "Actual workspace",
+  "edit": "Edit",
+  "view": "Вид",
+  "public": "Public",
+  "private": "Private",
+  "confidential": "Protected",
+  "request": "Request",
+  "link": "Link",
+  "as_template": "As Template",
+  "shareWithSomebody": "Поделиться с кем-нибудь",
+  "shareWithAll": "Поделиться со всеми",
+  "copied": "copied",
+  "copy": "Copy",
+  "cancel": "Отмена",
+  "accept": "Принять",
+  "generate": "Generate",
+  "no_result_to": "No result to",
+  "value_to_search": "Enter a value to search",
+  "searching": "Searching",
+  "completed": "Completed",
+  "all": "All",
+  "favorite": "Favorite",
+  "date": "Date",
+  "order_by": "Order",
+  "show": "Show",
+  "make_as_public": "Make as Public",
+  "make_as_private": "Make as Private",
+  "drag_and_drop_or": "Drag and drop or",
+  "browse_for_files": "Browse for files",
+  "done": "Done",
+  "import": "Import",
+  "description_here": "Description here...",
+  "read_more": "Read more",
+  "show_more": "Показать больше",
+  "show_less": "Показывай меньше",
+  "options": "параметры",
+  "message": "Write a message",
+  "select_category": "Select a category",
+  "select_categorys": "Select this categories",
+  "loading": "Loading...",
+  "create": "Create",
+  "reported": "Reported",
+  "comments": "Comments",
+  "achievements": "achievements",
+  "bonds": "Bonds",
+  "contacts": "Contacts",
+  "messages": "Messages",
+  "singularMessage": "Напишите сообщение",
+  "profiles": "Profiles",
+  "packs": "Packs",
+  "packages": "Пакеты",
+  "polls": "Опросы",
+  "chat": "Чат",
+  "deleteChat": "Удалить чат",
+  "shared_center": "Shared Center",
+  "report": "Report",
+  "statistics": "Stats",
+  "fyboard": "Обзор",
+  "sponsors": "Sponsors",
+  "about-us": "About us",
+  "help": "Help",
+  "terms-and-conditions": "Terms and Conditions",
+  "privacy-policy": "Privacy Policy",
+  "copyright": "© {{val}}. FySelf Fl.",
+  "european-data-protection-law": "European Data Protection Law",
+  "suggestions": "Suggestions",
+  "use": "Use",
+  "reply_to_private": "Reply to private",
+  "shred_times": "times",
+  "one_shared_time": "time",
+  "person_title": "People",
+  "post_title": "Post",
+  "inbox": "Inbox",
+  "institutionalRegistration": "Request for data",
+  "partners":"PARTNERS",
+  "clients":"CLIENTS",
+  "ok": "OK",
+  "useThis": "Use this",
+  "formAnswer": "Form Answer",
+  "survey": "Survey",
+  "template": "Template",
+  "autocomplete": "Autocomplete",
+  "msgPostShared": "Сообщение успешно отправлено.",
+  "msgPostPinned": "Опрос успешно закреплен.",
+  "msgPostUnPinned": "Опрос успешно откреплен.",
+  "msgProfilePinned": "Профиль успешно закреплен.",
+  "msgProfileUnPinned": "Профиль успешно откреплен.",
+  "msgChatPinned": "Чат успешно закреплен.",
+  "msgChatUnPinned": "Чат успешно откреплен.",
+  "msgPackagePinned": "Пакет успешно закреплен.",
+  "msgPackageUnPinned": "Пакет успешно откреплен.",
+  "en": "английский",
+  "es": "испанский",
+  "ru": "Русский",
+  "updatedLang": "Обновление языка ...",
+  "type": "Type",
+  "closeTabs": "Вкладки закрыты: {{type}}",
+  "smileys_people": "смайлики и люди",
+  "animals_nature": "животные и природа",
+  "food_drink": "еда и напитки",
+  "travel_places": "поездки и места",
+  "activities": "деятельность",
+  "objects": "объекты",
+  "symbols": "символы",
+  "flags": "флаги",
+  "recently_used": "недавно использовалось",
+  "search_message": "Search in Messages",
+  "select_user": "Select user",
+  "statisticsReputation": "Моя репутация с течением времени",
+  "dateRangePicker": {
+    "today": "Сегодня",
+    "yesterday": "Вчера",
+    "lastSevenDays": "Последние 7 дней",
+    "lastThirtyDays": "Последние 30 дней",
+    "thisMonth": "В этом месяце",
+    "lastMonth": "Прошлый месяц",
+    "cancelLabel": "Отменить",
+    "applyLabel": "Применить",
+    "customRangeLabel": "Пользовательский диапазон"
+  },
+  "cancelRecurringPay": "Отменить повторяющийся платеж",
+  "modifyPayment": "Изменить платеж",
+  "rehire": "Ремонт",
+  "updateService": {
+    "title":"Изменить",
+    "placeholder": "Выписка из плана, изменение и договор"
+  },
+  "updatePlan": {
+    "title":"Изменить план",
+    "placeholder": "Изменить план и нанять"
+  },
+  "deleteMemberAdmin": {
+    "title": "Снять права администратора",
+    "placeholder": "Удалить права администратора"},
+  "addMemberAdmin": {
+    "title": "Добавить права администратора",
+    "placeholder": "Добавить права администратора"
+  },
+  "warningMessageMembersAdminDelete": "Если вы удалите права администратора для этого пользователя, вы не сможете получить доступ ко всем функциям компьютера",
+  "warningMessageMembersAdminAdd": "Если вы добавите административные права этому пользователю, вы получите доступ ко всем функциям команды", 
+  "addPublicTemplate":{
+    "title":"Add public template"
+  },
+  "warningMessageAddPublicTemplate":"Вы уверены, что хотите добавить следующий частный шаблон?", 
+  "msgMakePublic": "Шаблон успешно опубликован.",
+  "msgErrorPublic": "Не удалось опубликовать шаблон.",
+  "modifyService": "Настраивать",
+  "labelOnlyForInvitation":"Регистрация только по приглашениям",
+  "labelInvitationForAccess": "Приглашение на этом этапе доступно только администраторам.",
+  "join": "присоединиться",
+  "exit": "Уехать",
+  "reputation": "Репутация",
+  "textFileErrorMessage":"Размер загружаемого файла превышает {{val}} МБ." ,
+  "download": "Скачать",
+  "labelPrint": "Печать",
+  "refreshSpaceError": "Вы отключены. Проверьте свою сеть и повторите попытку.",  
+  "labelReceivedFrom": "Получено от",
+  "labelReputation": "Репутация",
+  "labelVeracity": "Правдивость",
+  "labelAddField": "Добавить поле",
+  "labelAddTabSpace": "Добавить пробел",
+  "DD/MM/YY": "MM.DD.YY",
+  "hh-mm-a": "hh:mm a",
+  "h-mm-a": "h:mm a",
+  "DD-MM-YYYY-hh-mm-a":"MM.DD.YY hh:mm A",
+  "DD-MMM-YYYY-LT-a": "DD MMM YYYY a",
+  "DD-MMM-YYYY-a": "DD MMM YYYY a",
+  "DD-MMM-YYYY-hh-mm-a": "DD MMM YYYY hh:mm a",
+  "MMMM-Do-YYYY-h-mm-ss": "LLL",
+  "MMMM Do": "DD MMMM",
+  "DD-MMM": "DD MMM",
+  "DD-MMM-YYYY": "DD MMM YYYY",
+  "DD-MMM-LT": "DD MMM LT",
+  "reactionHover":{
+    "SURELY_ANGRY": "Я отрицаю это ",
+    "NOT_VERY_HAPPY":"я сомневаюсь " ,
+    "LIKE_IT":"я принимаю это ",
+    "ITS_FUNNY":"Поражает меня ",
+    "LOL": "я присоединяюсь "
+  },
+  "labelAddColumns":"Добавить содержимое в столбцы",
+  "labelColumn":"Столбец",
+  "addNewColum":"Добавить столбец",
+  "configColumn":"Конфигурация содержимого столбца",
+  "digitalSignTitle":" Найти файл в:"
+}

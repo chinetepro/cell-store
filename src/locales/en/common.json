@@ -1,0 +1,454 @@
+{
+  "network_error": {
+    "400": "Review the request and try again.",
+    "401": "You not are authorize to do this.",
+    "403": "Apparently you do not have sufficient privileges to perform this action.",
+    "404": "The item appears to be missing.",
+    "500": "An error has occurred and your request couldn't be completed. Please contact us!",
+    "503":"We are experiencing problems with our servers.",
+    "offline": "You are offline."    
+  },
+  "navigation": {
+    "overview": {
+      "title": "General View",
+      "hover": "Dashboard"
+    },
+    "buyOffers": {
+      "title": "Offers",
+      "hover": "Plans and Services"
+    },
+    "myServices": {
+      "title": "My services",
+      "hover": "Contracted services"
+    },
+    "publicTemplate": {
+      "title": "Public Template",
+      "hover": "Public Template"
+    },
+    "statistics": {
+      "title": "Statistics"
+    },
+    "causes": {
+      "title": "Causes",
+      "hover": "Support our Causes"
+    },
+    "operations": {
+      "title": "Operations"
+    },
+    "users": {
+      "title": "Team members"
+    },
+    "jobOffers": {
+      "title": "Job offers"
+    },
+    "courses": {
+      "title": "Courses",
+      "hover": "Apply to our courses"
+    },
+    "sponsor": {
+      "title": "Sponsorship"
+    },
+    "invest": {
+      "title": "Investment"
+    },
+    "admin": {
+      "title": "Administration"
+    },
+    "serviceConfiguration": {
+      "title": "Service configuration"
+    },
+    "offersKit": {
+      "title": "Plans"
+    },
+    "loggers": {
+      "title": "Loggers"
+    },
+    "workspaces": {
+      "title": "Workspaces",
+      "hover": "Create your portfolio"
+    },
+    "jobApplications": {
+      "title": "Manage job offers"
+    },
+    "manageCourses": {
+      "title": "Manage courses"
+    },
+    "sponsors": {
+      "title": "Sponsors"
+    },
+    "investors": {
+      "title": "Investors"
+    },
+    "dashboard": {
+      "title": "Board"
+    },
+    "billingRecord": {
+      "title": "Billing record"
+    },
+    "manageCauses": {
+      "title": "Manage causes"
+    },
+    "Poll": {
+      "title": "Poll",
+      "hover": "Create templates"
+    },
+    "sponsorEvent": {
+      "title": "Sponsor event"
+    },
+    "fyboardSection": {
+      "title": "Overview",
+      "hover": "Publications"
+    },
+    "sponsorEventClient": {
+      "title": "Sponsorships",
+      "hover": "Opt for a sponsorship"
+    },
+    "Dashboard": "Dashboard",
+    "Plans and Services": "Plans and Services",
+    "invoices": {
+      "title": "History",
+      "hover": "History of invoices and payments"
+    },
+    "business-users": {
+      "title": "Team members",
+      "hover": "Collaborators"
+    },
+    "formTemplate": {
+      "title": "Data Request",
+      "hover": "Create templates"
+    },
+    "adminSection": {
+      "title": "Manage Section"
+    }
+  }, 
+  "formatMoney": "{{value, intlMoney}}",
+  "buy": "Configure",
+  "learn": "Learn",
+  "add": "Add",
+  "manage": "Manage",
+  "filter": "Filter",
+  "orderBy": "Order By",
+  "fields": "Fields",
+  "clearFilter": "Clear Filter",
+  "save": "Save",
+  "login": "Login",
+  "logout": "Logout",
+  "close": "Close",
+  "goIt": "Go it",
+  "Edit": "Edit",
+  "Published": "Published",
+  "removeError": "Such a problem to remove this item",
+  "emptySearchResult": "Sorry, there is no data to show right now.",
+  "emptySearchResultMessage": "Apparently the data you are trying to reach, does not exist.",
+  "dataErrorFoundTitle": "Oops... no search results were found.",
+  "dataErrorFoundSubTitle": "An error during search process has occurred, please try again.",
+  "validationInvalidFormat": "Invalid format",
+  "confirm": "Confirm",
+  "donate": "Donate",
+  "apply": "View",
+  "applied": "Applied",
+  "details": "Details",
+  "nameKey": "Name",
+  "company": "Company",
+  "published": "Published",
+  "enable": "Enable",
+  "suggestedEnableOption": "Enable for use",
+  "email": "Email",
+  "phone": "Phone",
+  "actions": "Actions",
+  "updatingWorkspace": "Updating workspace...",
+  "updatingLang": "Updating language...",
+  "search": "Search",
+  "remove": "Remove",
+  "config": "Config",
+  "frequency": {
+    "DIARY": "Diary",
+    "MONTHLY": "Monthly",
+    "ANNUAL": "Annual"
+  },
+  "total": "Total",
+  "subTotal": "Sub Total",
+  "rows_per_page": "Rows per page",
+  "needs_to_be_in_workspace": "You need to be in a workspace",
+  "offer_action": "to be able to buy",
+  "businessuser_action": "to be able to add a member",
+  "new_workspace": "Or create one.",
+  "Required": "Required field",
+  "photoText1": "A picture worths more than a thousands words, they say!",
+  "photoText2": "Start your offer by adding one.",
+  "photoAction": "Drag and Drop or",
+  "photoLink": "Browse for files",
+  "back": "Back",
+  "userAlias": "User alias",
+  "user": "User",
+  "admin":"Admin",
+  "habiliteFirm":"Enable signing for receivers",
+  "addSignatories":"Add signatories",
+  "descriptionUploadP12": "Upload your P12 to sign the document.",
+  "msgSuccessSign":"The document has been signed correctly.",
+  "msgErrorSign": "An error has occurred signing the document.",
+  "signedBy": "Signed by",
+  "notUsers":"There are no signatories",
+  "signature":"Signatories",
+  "digitalSign":"Digital signature",
+  "of":"of",
+  "forValidation": {
+    "label":"Password",
+    "placeholder": "Password"
+  },
+  "signedByUser": "Signed",
+  "service": "Service",
+  "empty": "Empty",
+  "share": "Share",
+  "export": "Export",
+  "elasticConfig": {
+    "schema": "Schema",
+    "ip": "IP",
+    "port": "Port",
+    "index": "Index"
+  },
+  "successfulCreation": "Created sucessfully",
+  "creationError": "Could not create successfully due to invalid data in the form",
+  "successfulEdition": "Edited sucessfully",
+  "editionError": "Could not edit successfully due to invalid data in the form",
+  "photoTextEdit": "Change your picture",
+  "Filter": "Filter",
+  "identifier": "Email",
+  "name": "Name",
+  "alias": "Alias",
+  "last_name": "Last Name",
+  "gender": "Gender",
+  "age": "Age",
+  "location": "Location",
+  "password": "Password",
+  "continue": "Continue",
+  "or": "or",
+  "new_password": "New Password",
+  "set_new_password": "Set a new password...",
+  "create_at": "Created at",
+  "sure": "Sure?",
+  "delete": "Delete",
+  "pinned": "Pin",
+  "unpinned": "Unpin",
+  "collapsed": "Collapsed",
+  "uncollapsed": "Expanded",
+  "actualWorkspace": "Actual workspace",
+  "mustbeWorkspace": "Enter a workspace to add it",
+  "edit": "Edit",
+  "view": "View",
+  "review": "Review",
+  "public": "Public",
+  "private": "Private",
+  "confidential": "Protected",
+  "request": "Request",
+  "link": "Link",
+  "as_template": "As Template",
+  "shareWithSomebody": "Share with somebody",
+  "shareWithAll": "Share with all",
+  "copied": "copied",
+  "copy": "Copy",
+  "cancel": "Cancel",
+  "accept": "Accept",
+  "generate": "Generate",
+  "no_result_to": "No result to",
+  "value_to_search": "Enter a value to search",
+  "searching": "Searching",
+  "completed": "Completed",
+  "all": "All",
+  "favorite": "Favorite",
+  "date": "Date",
+  "order_by": "Order",
+  "show": "Show",
+  "make_as_public": "Make as Public",
+  "make_as_private": "Make as Private",
+  "drag_and_drop_or": "Drag and drop or",
+  "browse_for_files": "Browse for files",
+  "done": "Done",
+  "import": "Import",
+  "description_here": "Description here...",
+  "read_more": "Read more",
+  "show_more": "Show more",
+  "show_less": "Show less",
+  "options": "options",
+  "message": "Write a message",
+  "select_category": "Select a category",
+  "select_categorys": "Select this categories",
+  "country":{
+    "placeholder": "Select a country"
+  },
+  "typeofBusiness":{
+    "placeholder": "Select a type of business"
+  },
+  "loading": "Loading...",
+  "create": "Create",
+  "reported": "Reported",
+  "comments": "Comments",
+  "achievements": "achievements",
+  "bonds": "Bonds",
+  "contacts": "Contacts",
+  "messages": "Messages",
+  "singularMessage": "Write a message",
+  "profiles": "Profiles",
+  "packs": "Packs",
+  "packages": "Packages",
+  "polls": "Polls",
+  "chat": "Chat",
+  "deleteChat": "Delete chat",
+  "shared_center": "Shared Center",
+  "report": "Report",
+  "statistics": "Stats",
+  "fyboard": "Overview",
+  "sponsors": "Sponsors",
+  "about-us": "About us",
+  "help": "Help",
+  "terms-and-conditions": "Terms and Conditions",
+  "privacy-policy": "Privacy Policy",
+  "copyright": "© {{val}}. FySelf FL.",
+  "european-data-protection-law": "European Data Protection Law",
+  "suggestions": "Suggestions",
+  "use": "Use",
+  "reply_to_private": "Reply to private",
+  "shred_times": "times",
+  "one_shared_time": "time",
+  "visible": "Visible",
+  "invisible": "Invisible",
+  "inbox": "Inbox",
+  "institutionalRegistration": "Request for data",
+  "partners": "PARTNERS",
+  "clients": "CLIENTS",
+  "ok": "OK",
+  "useThis": "Use this",
+  "formAnswer": "Form Answer",
+  "survey": "Survey",
+  "person_title": "People",
+  "post_title": "Post",
+  "template": "Template",
+  "autocomplete": "Autocomplete",
+  "msgPostShared": "The post was shared successfully.",
+  "without-leaves": "Without leaves",
+  "msgPostPinned": "The poll has been pinned successfully.",
+  "msgPostUnPinned": "The poll has been unpinned successfully.",
+  "msgProfilePinned": "The profile has been pinned successfully.",
+  "msgProfileUnPinned": " The profile has been successfully unpinned.",
+  "msgChatPinned": " The chat has been successfully pinned.",
+  "msgChatUnPinned": " The chat has been successfully unpinned.",
+  "msgPackagePinned": " The package has been successfully pinned.",
+  "msgPackageUnPinned": " The package has been successfully unpinned.",
+  "deletedMemberAdminMsg": "The The user's administrator role has been successfully deleted.",
+  "addedMemberAdminMsg": "The user's administrator role has been successfully removed.",
+  "en": "English",
+  "es": "Spanish",
+  "ru": "Russian",
+  "updatedLang": "Updating language ...",
+  "type": "Type",
+  "closeTabs": "The tabs has been closed: {{type}}",
+  "smileys_people": "smileys & people",
+  "animals_nature": "animals & nature",
+  "food_drink": "food & drink",
+  "travel_places": "travel & places",
+  "activities": "activities",
+  "objects": "objects",
+  "symbols": "symbols",
+  "flags": "flags",
+  "recently_used": "recently used",
+  "search_message": "Search in Messages",
+  "select_user": "Select user",
+  "statisticsReputation": "My reputation over time",
+  "dateRangePicker": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "lastSevenDays": "Last 7 Days",
+    "lastThirtyDays": "Last 30 Days",
+    "thisMonth": "This Month",
+    "lastMonth": "Last Month",
+    "cancelLabel": "Cancel",
+    "applyLabel": "Apply",
+    "customRangeLabel": "Custom range"
+  },
+  "labelOnlyForInvitation": "Registration is by invitation only",
+  "labelInvitationForAccess": "The invitation in this phase is restricted only for admins.",
+  "join": "Join",
+  "exit": "Exit",
+  "reputation": "Reputation",
+  "textFileErrorMessage": "The file size you want to upload is greater than {{val}} MB",
+  "download": "Download",
+  "labelPrint": "Print",
+  "refreshSpaceError": "You're offline. Please check the network and try again.",
+  "status": {
+    "label": "Status",
+    "ACTIVE": "Active",
+    "FINISHED": "Expired",
+    "FINISHING": "About to expire"
+  },
+  "cancelRecurringPay": "Cancel recurring payment",
+  "modifyPayment": "Modify payment",
+  "rehire": "Renew",
+  "updateService": {
+    "title":"Modify",
+    "placeholder": "Extract from the plan, modify and contract"
+  },
+  "updatePlan": {
+    "title":"Modify plan",
+    "placeholder": "Modify the plan and hire"
+  },  
+  "deleteMemberAdmin": {
+    "title": "Remove administrator permissions",
+    "placeholder": "Remove administrator permissions"},
+  "addMemberAdmin": {
+    "title": "Add administrator permissions",
+    "placeholder": "Add administrator permissions"
+  },
+  "warningMessageMembersAdminDelete": "If you remove the administration permissions for this user, you will not be able to access all the features of the computer",
+  "warningMessageMembersAdminAdd": "If you add the administration permissions to this user, you will be able to access all the functionalities of the team",  
+  "addPublicTemplate":{
+    "title":"Add private template"
+  },
+  "warningMessageAddPublicTemplate":"Are you sure you want to add the following private template?",
+  "msgErrorPublic": "The template could not be made public.",
+  "msgMakePublic": "The template has been successfully published.",
+  "modifyService": "Set up",
+  "makePrivate": "Make public template",
+  "warningTitle": "Rehire confirmation",
+  "warningMessage": "If you rehire this service in this way, you will not be able to rehire it as part of the plan to which you belonged",  
+  "warningQuestion": "Are you sure?",
+  "renewBy": {
+    "count": "Renew by services amount",
+    "date": "Renew by date",
+    "forever": "Renew forever",
+    "not": "Don't renew"
+  },
+  "selectCount": "Select the number of times you will contract the service",
+  "dateSelectText": {
+    "initDate": "Your start date is",
+    "endDate": "Select a date for the end of your service."
+  },
+  "labelReceivedFrom": "Received from",
+  "labelReputation": "Reputation",
+  "labelVeracity": "Veracity",
+  "labelAddField": "Add Field",
+  "labelAddTabSpace": "Add Space",
+  "DD/MM/YY":"MM/DD/YY",
+  "hh-mm-a": "hh:mm a",
+  "h-mm-a": "h:mm a",
+  "DD-MM-YYYY-hh-mm-a":"MM/DD/YY hh:mm A",
+  "DD-MMM-YYYY-LT-a": "MMM DD YYYY LT",
+  "DD-MMM-YYYY-a": "MMM DD YYYY LT",
+  "DD-MMM-YYYY-hh-mm-a": "MMM DD YYYY hh:mm a",
+  "MMMM-Do-YYYY-h-mm-ss": "LLL",
+  "MMMM-Do": "MMMM DD",
+  "DD-MMM": "MMM DD",
+  "DD-MMM-YYYY": "MMM DD YYYY",
+  "DD-MMM-LT": "MMM DD LT",
+  "reactionHover":{
+    "SURELY_ANGRY": "I deny it",
+    "NOT_VERY_HAPPY":"I doubt it" ,
+    "LIKE_IT":"I accept it",
+    "ITS_FUNNY":"I´m surprised",
+    "LOL": "I support it"
+  },
+  "labelAddColumns":"Add content in columns",
+  "labelColumn":"Column",  
+  "addNewColum":"Add Column",
+  "configColumn":"Column content set-up",
+  "digitalSignTitle":"Search file in:"
+}
